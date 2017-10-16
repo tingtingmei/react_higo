@@ -1,6 +1,6 @@
 /* App */
 import React, {Component} from 'react';
-import './App.css'
+import './App.less'
 export default class App extends Component {
     render() {
         return (
