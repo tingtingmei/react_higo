@@ -1,0 +1,58 @@
+°ÙÍ¨Æ½Ì¨£º
+wifi.baitone.cn  
+ÓÃ»§Ãû£ºTCL±±¾©  ÃÜÂë£ºtcl11111
+×î´óºóÌ¨£º
+TCLÆ½Ì¨µØÖ·£ºhttp://115.159.123.202/Admin/Index/login
+µÇÂ¼ÕËºÅ£ºTCL£¬ÃÜÂë£ºtcl11111
+ 
+ 
+Ğ¡ÔÆÆ½Ì¨£º
+www.xiaoyun.com
+ÓÃ»§Ãû
+ 14330558@qq.com
+ÃÜÂë£º12345
+
+ÖĞ»ªÁªºÏ²Æ²ú±£ÏÕ¹É·İÓĞÏŞ¹«Ë¾ÍøÉÏÉÌ³Ç
+http://e.cic.cn/web/publicService/turnToJsp.do?index=1
+
+º½ÌìÎŞÏßÆ½Ì¨µØÖ·£ºhttp://www.livetelematics.cn/ 
+ÕËºÅ£ºBJTCL
+ÃÜÂë£º123456
+
+http://kictpov.blog.163.com/blog/static/176217048201272802726402/
+-moz-transform: scale(0.9);
+
+
+º½ÌìÎŞÏßÆ½Ì¨µØÖ·£ºhttp://www.livetelematics.cn/ 
+ÕËºÅ£ºBJTCL
+ÃÜÂë£º123456
+
+https://admin.ddicar.com/
+sibylzhao   ÃÜÂë123456
+
+
+http://www.haoqu.net/2/hunanweishi.html
+ºşÄÏÎÀÊÓÖ±²¥
+
+Öé·åÅàÑµÊÓÆµÁ´½Ó
+http://url.cn/4EfHq53
+
+http://cnodejs.org/topic/4faf65852e8fb5bc65113403 req.onÎÊÌâ
+BabelÑ§Ï°Ê¹ÓÃ
+https://juejin.im/post/59b9ffa8f265da06710d8e89?utm_source=gold_browser_extension
+
+https://segmentfault.com/t/javascript  segmentfault Ç°¶ËÑ§Ï°ÍøÕ¾
+http://huziketang.com/books/react/lesson45  reactÑ§Ï°Êé
+https://ant.design/components/badge-cn/#  UI×é¼şÑ§Ï°£¨ÂìÒÏ½ğ·ş£©
+https://segmentfault.com/a/1190000006178770  webpackÑ§Ï°
+https://discountry.github.io/react/docs/uncontrolled-components.html  reactÖĞÎÄÎÄµµ
+http://www.ruanyifeng.com/blog/2017/08/koa.html koaÑ§Ï°ÍøÕ¾
+http://www.zhufengpeixun.cn/docs/html/react¿Î³Ì/5.reduxÖĞ¼ä¼ş.html Öé·åÅàÑµµÄ¿Î¼ş
+
+
+@È«Ìå³ÉÔ± Èç¹ûĞèÒªÉîÈëÑ§Ï°nodeµÄ¿ÉÒÔ¿´ÒÔÏÂÊÓÆµhttp://www.ablesky.com/org/510_d_381965_0_-1_-1_0_1#orgTab- express+mongodb- Öé·åÅÀ³æ- Öé·å²©¿Í- »ùÓÚbootstrap+express+mongodbÊµÏÖÒ»¸ö°üÀ¨ÓÃ»§¹ÜÀí¡¢ÎÄÕÂ¹ÜÀí¡¢¶à¿´ÁôÑÔ¡¢·ÖÒ³²éÑ¯¡¢ ËÑË÷¡¢ÎÄ¼şÉÏ´«¡¢pÿ- Öé·åÁÄÌìÊÒ-  Õâ²¿·ÖÎÒÃÇÊ¹ÓÃsocket.io´î½¨Ò»¸ö¹¦ÄÜÍêÉÆµÄÁÄÌìÊÒ¡£°üÀ¨ÄäÃûÁÄÌì¡¢¾ßÃûÁÄÌì¡¢»®·Ö²»Í¬µÄ·¿¼ä¡¢Ë½ÁÄµÈ¹¦ÄÜ£¬²¢ÇÒ»á½«Êı¾İ±£´æÿ»¹ĞèÒªÉîÈëµÄ¿ÉÒÔ¿´ÕâÀïhttp://www.ablesky.com/kecheng/detail_1337788
+
+http://reacttraining.cn reactÂ·ÓÉÎÄµµ
+https://zhuanlan.zhihu.com/purerender reactÖªºõÍøÕ¾
+
+
